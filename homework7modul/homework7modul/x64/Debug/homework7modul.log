@@ -1,0 +1,5 @@
+﻿  IntegerArray.cpp
+  main.cpp
+  Создание кода...
+C:\Users\ponchik\Desktop\skillfactory\homework\homework7modul\homework7modul\IntegerArray.cpp(90,1): warning C4715: IntegerArray::operator=: значение возвращается не при всех путях выполнения
+  homework7modul.vcxproj -> C:\Users\ponchik\Desktop\skillfactory\homework\homework7modul\x64\Debug\homework7modul.exe
